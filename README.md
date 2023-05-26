@@ -54,9 +54,8 @@ rails s
 - [Figma](https://www.figma.com) — Prototyping
 
 ## Team Members
+- [Yoshiko](https://github.com/yoshiko-takagi)
 - [Miriam](https://github.com/mmiy55)
 - [Chie](https://github.com/Chieko88)
 - [Emily](https://github.com/emiomashi)
 
-## License
-This project is licensed under the MIT License
